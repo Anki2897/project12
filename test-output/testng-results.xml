@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T05:32:57Z" name="Default suite" finished-at="2024-02-12T05:33:09Z" duration-ms="11825">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T05:32:57Z" name="Default test" finished-at="2024-02-12T05:33:09Z" duration-ms="11825">
+      <class name="com.ass1.Login_Page">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:02:57Z" name="setUp" finished-at="2024-02-12T11:03:00Z" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidUsername()[pri:1, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:00Z" name="testValidUsername" finished-at="2024-02-12T11:03:05Z" duration-ms="4715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidUsername -->
+        <test-method signature="testInvalidUsername()[pri:2, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:05Z" name="testInvalidUsername" finished-at="2024-02-12T11:03:06Z" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidUsername -->
+        <test-method signature="testInvalidPassword()[pri:3, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:06Z" name="testInvalidPassword" finished-at="2024-02-12T11:03:07Z" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidPassword -->
+        <test-method signature="testEmptyUsernameAndPassword()[pri:4, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:07Z" name="testEmptyUsernameAndPassword" finished-at="2024-02-12T11:03:07Z" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyUsernameAndPassword -->
+        <test-method signature="testEmptyPassword()[pri:5, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:07Z" name="testEmptyPassword" finished-at="2024-02-12T11:03:08Z" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyPassword -->
+        <test-method signature="testEmptyUsername()[pri:6, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:08Z" name="testEmptyUsername" finished-at="2024-02-12T11:03:08Z" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ass1.Login_Page@7d20d0b]" started-at="2024-02-12T11:03:08Z" name="tearDown" finished-at="2024-02-12T11:03:09Z" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ass1.Login_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
